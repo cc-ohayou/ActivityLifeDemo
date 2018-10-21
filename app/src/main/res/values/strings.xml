@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityLifeDemo</string>
+    <string name="but_01">but_01</string>
+    <string name="but_02">but_02</string>
+</resources>
